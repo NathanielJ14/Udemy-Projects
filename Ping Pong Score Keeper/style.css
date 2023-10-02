@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: underline solid black;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.playTo {
+    font-size: 25px;
+    margin: 30px auto;
+}
+
+button {
+    color: white;
+    margin: 10px;
+    height: 40px;
+    font-size: 18px;
+    width: 140px;
+    border: 2px solid rgba(196, 191, 191, 0.548);
+    border-radius: 3%;
+    box-shadow: 1px 1px 4px black;
+}
+
+#playerOne {
+    background-color: rgb(93, 230, 100);
+}
+
+#playerTwo {
+    background-color: rgb(66, 129, 247);
+}
+
+#reset {
+    background-color: rgb(238, 33, 33);
+}
+
+select {
+    font-size: 15px;
+    padding: 5px;
+}
+
+.winningColor {
+    color: green;
+}
+
+.lossingColor {
+    color: red;
+}
